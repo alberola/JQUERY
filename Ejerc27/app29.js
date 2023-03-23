@@ -5,7 +5,7 @@ $('#btn1').click( () => {
             console.log('SUCCESS!!!!');
         } else {
             console.log(rep,status);
-            console.log('Help!!!!');
+            console.log('Help!!!');
         }
 
         console.log(xhr);
